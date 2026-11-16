@@ -61,7 +61,7 @@ Download the file and place it in the same folder as the notebook.
 
 ## Usage
 
-Open `PROYECTO_PANTHEON.ipynb` and run all cells in order. The notebook is organised as follows:
+Open `Cosmo-statistics.ipynb` and run all cells in order. The notebook is organised as follows:
 
 | Cell | Content |
 |---|---|
